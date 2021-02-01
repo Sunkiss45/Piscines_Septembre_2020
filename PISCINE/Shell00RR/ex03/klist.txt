@@ -1,0 +1,6 @@
+
+iCredentials cache: API:D6B9C180-802A-49F5-BEFD-861B93965CD6
+        Principal: ebarguil@42.FR
+
+  Issued                Expires               Principal
+Sep  7 16:18:31 2020  Sep 14 16:18:31 2020  krbtgt/42.FR@42.FR
